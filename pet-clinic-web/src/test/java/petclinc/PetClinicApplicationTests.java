@@ -1,4 +1,4 @@
-package springframework.petclinc;
+package petclinc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
